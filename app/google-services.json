@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "283782835382",
+    "project_id": "fir-image-storage-34901",
+    "storage_bucket": "fir-image-storage-34901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283782835382:android:c054fadba9500490638a17",
+        "android_client_info": {
+          "package_name": "com.example.firebaseImagestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283782835382-qc5hp917c39fga9fr42ovg3bf8qnuu4d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseImagestorage",
+            "certificate_hash": "3ba228fa1382150d9bf64cd2fef9b6c17ab9c3bb"
+          }
+        },
+        {
+          "client_id": "283782835382-v1n00bvv0c02n7739isv2shcit2vl9sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmEWMogqDtg9VqMIWzUA6rInx-vzjPZO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283782835382-v1n00bvv0c02n7739isv2shcit2vl9sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
