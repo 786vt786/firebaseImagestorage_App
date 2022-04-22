@@ -21,7 +21,7 @@ Step 3. Setting up the activity_main.xml layout file
 
 Step 4. Setting up MainActivity.java file
 
-In MainActivity
+   In MainActivity
 
 * Set listeners on interaction of defined button views. On interaction, you want to call a method that triggers either the selection of an image from the gallery or the uploading of the selected image to Firebase storage. setOnClickListener is used for that action on interaction.
 
