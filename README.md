@@ -3,6 +3,8 @@
 
 Firebase is a mobile and web application development platform. It provides services that a web application or mobile application might require. Firebase provides secure file uploads and downloads for Firebase application.
 
+          This app will help you to build an Android application with the ability to select the image from the mobile gallery and upload images to Firebase Storage.
+
 Step 1. Create a new project on android studio or open an existing project in which you want to add authentication and add the firebase to that android application.
 
 Step 2. Add the firebase storage dependency in build.gradle (Module:app)file. Latest Dependency for firebase storage is:
